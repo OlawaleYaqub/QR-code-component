@@ -17,8 +17,8 @@ This HTML code creates a simple web page that displays a QR code image along wit
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://qrcodecomponet.netlify.app](https://qrcodecomponet.netlify.app)
+- Live Site URL: [https://qrcodecomponet.netlify.app/](https://qrcodecomponet.netlify.app)
 
 
 
@@ -50,7 +50,6 @@ I hope to make the page interactive by adding javascript.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@OlawaleYaqub](https://www.frontendmentor.io/profile/OlawaleYaqub)
 - Twitter - [@YaqubOlawale](https://www.twitter.com/YaqubOlawale)
 
